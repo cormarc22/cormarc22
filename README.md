@@ -1,4 +1,5 @@
-## Hi there 👋
+## MBO4-student Webdevelopment | Ervaren in HTML, CSS, JavaScript & PHP | Passie voor interactieve websites en games.
+
 
 <!--
 **cormarc22/cormarc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
